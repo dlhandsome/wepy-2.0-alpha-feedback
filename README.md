@@ -4,6 +4,7 @@ wepy 2.0 内测反馈
 ### TodoList
 - [ ] 分包加载
 - [ ] 支持小程序原生插件
+- [ ] 增加小程序原生onLoad生命周期，获取QueryString
 
 ### Links
 - [参与须知](https://github.com/dlhandsome/wepy-2.0-alpha-feedback/wiki/WePY-2.0-%E5%86%85%E6%B5%8B%E6%8B%9B%E5%8B%9F)
